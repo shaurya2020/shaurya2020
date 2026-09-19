@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact<br>_________________________________<br>_________________________________<br><br> 🧪 Software Testing & QA Fresher<br> ☕ Java <br>🔵 Selenium WebDriver<br> 🔍 Manual Testing | Test Cases | Test Scenarios<br> 🤖 Automation Testing | POM | WebDriver<br> 🌐 API Testing | REST API | JSON/XML<br> 🐞 Defect Reporting & Tracking<br> 📊 Data-Driven Testing | Excel<br> 🛠️ Scriptless Automation<br> 🚀 Hands-on Testing & Automation Projects<br> 📚 Currently improving Automation & QA skills<br> 🎯 Aspiring Software Tester / QA Engineer<br>
 
 
